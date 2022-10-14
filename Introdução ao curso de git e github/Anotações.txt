@@ -1,0 +1,4 @@
+Links úteis:
+https://www.markdownguide.org/basic-syntax/  -> guia para editar arquivos .md
+
+https://www.geeksforgeeks.org/working-on-git-bash/ -> guia complementar para git bash
